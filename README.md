@@ -6,4 +6,5 @@ The program allows users to check piano chords and scales, listen to them, and e
 ## Why?
 I developed this program to practice XAML and improve my skills in C#.
 
-Screenshot:
+Screenshot
+![Chord Scales](https://github.com/imasretep/Chords-Scales/blob/master/ChordScales.png)
